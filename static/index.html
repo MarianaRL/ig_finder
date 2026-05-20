@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ig_finder — Instagram page recommender</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <h1>ig_finder</h1>
+      <p class="tagline">
+        A small hybrid content-based recommender that suggests Instagram pages
+        from your interests and the accounts you already follow.
+      </p>
+    </header>
+
+    <main class="container">
+      <section class="panel">
+        <h2>1 &middot; Pick your interests</h2>
+        <p class="hint">Click any category to toggle it on or off.</p>
+        <div id="categories" class="chips" aria-label="Categories"></div>
+      </section>
+
+      <section class="panel">
+        <h2>2 &middot; (Optional) accounts you already follow</h2>
+        <p class="hint">
+          Comma-separated handles. They'll be excluded from your results and used
+          to infer extra tags.
+        </p>
+        <input
+          id="following"
+          class="text-input"
+          type="text"
+          placeholder="e.g. natgeo, mkbhd, gordongram"
+          autocomplete="off"
+        />
+      </section>
+
+      <section class="panel actions">
+        <label for="limit" class="hint">How many suggestions?</label>
+        <input id="limit" type="number" min="1" max="50" value="10" />
+        <button id="recommend" type="button">Get suggestions</button>
+      </section>
+
+      <section id="results" class="panel results" aria-live="polite"></section>
+    </main>
+
+    <footer class="foot">
+      <a href="/docs" target="_blank" rel="noopener">API docs</a>
+      &middot;
+      <a href="https://github.com/marrlourenco/ig_finder" target="_blank" rel="noopener"
+        >GitHub</a
+      >
+    </footer>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,850 @@
+[
+  {
+    "username": "natgeo",
+    "name": "National Geographic",
+    "categories": ["photography", "nature", "travel", "science"],
+    "tags": ["wildlife", "documentary", "earth", "exploration", "animals", "conservation", "landscape"],
+    "followers_millions": 281.0,
+    "description": "Experience the world through the eyes of National Geographic photographers."
+  },
+  {
+    "username": "natgeotravel",
+    "name": "National Geographic Travel",
+    "categories": ["travel", "photography", "nature"],
+    "tags": ["adventure", "landscape", "destinations", "exploration", "culture"],
+    "followers_millions": 45.0,
+    "description": "Travel inspiration and photo stories from around the globe."
+  },
+  {
+    "username": "beautifuldestinations",
+    "name": "Beautiful Destinations",
+    "categories": ["travel", "photography"],
+    "tags": ["destinations", "landscape", "adventure", "luxury", "wanderlust"],
+    "followers_millions": 20.0,
+    "description": "Curated travel photography from the world's most beautiful places."
+  },
+  {
+    "username": "lonelyplanet",
+    "name": "Lonely Planet",
+    "categories": ["travel"],
+    "tags": ["adventure", "destinations", "guides", "backpacking", "culture"],
+    "followers_millions": 4.4,
+    "description": "Travel guides, tips, and inspiration for explorers everywhere."
+  },
+  {
+    "username": "muradosmann",
+    "name": "Murad Osmann",
+    "categories": ["travel", "photography"],
+    "tags": ["destinations", "couples", "wanderlust", "iconic", "culture"],
+    "followers_millions": 3.4,
+    "description": "Follow Me To — iconic travel photography around the world."
+  },
+  {
+    "username": "chrisburkard",
+    "name": "Chris Burkard",
+    "categories": ["photography", "nature", "travel"],
+    "tags": ["landscape", "adventure", "surfing", "ocean", "exploration"],
+    "followers_millions": 3.9,
+    "description": "Adventure and landscape photography from remote corners of the planet."
+  },
+  {
+    "username": "stevemccurryofficial",
+    "name": "Steve McCurry",
+    "categories": ["photography"],
+    "tags": ["documentary", "culture", "portrait", "iconic", "travel"],
+    "followers_millions": 4.1,
+    "description": "Iconic documentary and portrait photography."
+  },
+  {
+    "username": "mkbhd",
+    "name": "Marques Brownlee",
+    "categories": ["tech"],
+    "tags": ["gadgets", "smartphones", "reviews", "youtube", "consumer-electronics"],
+    "followers_millions": 5.6,
+    "description": "Quality tech videos. Smartphone, gadget, and consumer-electronics reviews."
+  },
+  {
+    "username": "unboxtherapy",
+    "name": "Unbox Therapy",
+    "categories": ["tech"],
+    "tags": ["gadgets", "reviews", "unboxing", "consumer-electronics"],
+    "followers_millions": 3.2,
+    "description": "The best, weirdest, and most interesting gadgets get unboxed here."
+  },
+  {
+    "username": "linustech",
+    "name": "Linus Tech Tips",
+    "categories": ["tech"],
+    "tags": ["pc-building", "hardware", "gaming", "reviews", "computers"],
+    "followers_millions": 1.4,
+    "description": "PC hardware, gaming, and consumer-tech deep dives."
+  },
+  {
+    "username": "wired",
+    "name": "WIRED",
+    "categories": ["tech", "science", "news"],
+    "tags": ["innovation", "future", "ai", "culture", "longform"],
+    "followers_millions": 1.7,
+    "description": "Tech, science, culture, and the future."
+  },
+  {
+    "username": "theverge",
+    "name": "The Verge",
+    "categories": ["tech", "news"],
+    "tags": ["gadgets", "innovation", "consumer-electronics", "ai"],
+    "followers_millions": 0.55,
+    "description": "Tech, science, art, and culture."
+  },
+  {
+    "username": "googledevs",
+    "name": "Google for Developers",
+    "categories": ["tech", "education"],
+    "tags": ["programming", "ai", "developers", "cloud", "coding"],
+    "followers_millions": 0.4,
+    "description": "Resources and updates for developers building with Google."
+  },
+  {
+    "username": "github",
+    "name": "GitHub",
+    "categories": ["tech", "education"],
+    "tags": ["programming", "open-source", "developers", "coding"],
+    "followers_millions": 0.55,
+    "description": "The world's leading software development platform."
+  },
+  {
+    "username": "therock",
+    "name": "Dwayne Johnson",
+    "categories": ["fitness", "celebrity", "movies"],
+    "tags": ["strength", "motivation", "actor", "lifestyle"],
+    "followers_millions": 396.0,
+    "description": "Actor, producer, and fitness icon Dwayne 'The Rock' Johnson."
+  },
+  {
+    "username": "kayla_itsines",
+    "name": "Kayla Itsines",
+    "categories": ["fitness", "health"],
+    "tags": ["workout", "women-fitness", "bbg", "motivation", "wellness"],
+    "followers_millions": 16.0,
+    "description": "Trainer and creator of the BBG program."
+  },
+  {
+    "username": "massy.arias",
+    "name": "Massy Arias",
+    "categories": ["fitness", "health"],
+    "tags": ["workout", "strength", "wellness", "motivation"],
+    "followers_millions": 2.7,
+    "description": "Holistic health and fitness coach."
+  },
+  {
+    "username": "chrisheria",
+    "name": "Chris Heria",
+    "categories": ["fitness"],
+    "tags": ["calisthenics", "bodyweight", "strength", "workout"],
+    "followers_millions": 5.5,
+    "description": "Calisthenics, mobility, and bodyweight training."
+  },
+  {
+    "username": "nike",
+    "name": "Nike",
+    "categories": ["fitness", "fashion", "sports"],
+    "tags": ["sportswear", "running", "athletes", "training", "brand"],
+    "followers_millions": 305.0,
+    "description": "Just Do It. Sport, training, and lifestyle apparel."
+  },
+  {
+    "username": "adidas",
+    "name": "adidas",
+    "categories": ["fitness", "fashion", "sports"],
+    "tags": ["sportswear", "athletes", "training", "brand", "streetwear"],
+    "followers_millions": 28.0,
+    "description": "Through sport, we have the power to change lives."
+  },
+  {
+    "username": "gordongram",
+    "name": "Gordon Ramsay",
+    "categories": ["food", "celebrity"],
+    "tags": ["cooking", "chef", "recipes", "restaurants"],
+    "followers_millions": 17.0,
+    "description": "Chef Gordon Ramsay — Michelin-star cooking and television."
+  },
+  {
+    "username": "joshuaweissman",
+    "name": "Joshua Weissman",
+    "categories": ["food"],
+    "tags": ["cooking", "recipes", "homemade", "youtube"],
+    "followers_millions": 2.6,
+    "description": "But better — homemade versions of your favorite foods."
+  },
+  {
+    "username": "bonappetitmag",
+    "name": "Bon Appétit",
+    "categories": ["food"],
+    "tags": ["cooking", "recipes", "restaurants", "magazine"],
+    "followers_millions": 7.4,
+    "description": "Food, cooking, and restaurant culture."
+  },
+  {
+    "username": "halfbakedharvest",
+    "name": "Tieghan Gerard — Half Baked Harvest",
+    "categories": ["food"],
+    "tags": ["recipes", "homemade", "baking", "blog"],
+    "followers_millions": 5.3,
+    "description": "Recipes from Half Baked Harvest blog."
+  },
+  {
+    "username": "buzzfeedtasty",
+    "name": "Tasty",
+    "categories": ["food"],
+    "tags": ["recipes", "video", "cooking", "buzzfeed"],
+    "followers_millions": 41.0,
+    "description": "Food videos and easy recipes from BuzzFeed."
+  },
+  {
+    "username": "binging.with.babish",
+    "name": "Babish Culinary Universe",
+    "categories": ["food"],
+    "tags": ["cooking", "recipes", "pop-culture", "youtube"],
+    "followers_millions": 3.6,
+    "description": "Cooking inspired by movies and TV — and Basics with Babish."
+  },
+  {
+    "username": "vogue",
+    "name": "Vogue",
+    "categories": ["fashion", "beauty"],
+    "tags": ["editorial", "runway", "luxury", "magazine", "designers"],
+    "followers_millions": 53.0,
+    "description": "The definitive fashion magazine."
+  },
+  {
+    "username": "harpersbazaarus",
+    "name": "Harper's Bazaar",
+    "categories": ["fashion", "beauty"],
+    "tags": ["editorial", "runway", "luxury", "magazine"],
+    "followers_millions": 9.3,
+    "description": "Where fashion lives — runway, designers, and style."
+  },
+  {
+    "username": "chanelofficial",
+    "name": "CHANEL",
+    "categories": ["fashion", "beauty"],
+    "tags": ["luxury", "couture", "designers", "brand"],
+    "followers_millions": 60.0,
+    "description": "Official Chanel — couture, fragrances, and beauty."
+  },
+  {
+    "username": "gucci",
+    "name": "Gucci",
+    "categories": ["fashion"],
+    "tags": ["luxury", "designers", "brand", "streetwear"],
+    "followers_millions": 51.0,
+    "description": "Official Gucci — fashion, jewelry, and accessories."
+  },
+  {
+    "username": "zara",
+    "name": "ZARA Official",
+    "categories": ["fashion"],
+    "tags": ["fast-fashion", "brand", "streetwear", "editorial"],
+    "followers_millions": 61.0,
+    "description": "The official ZARA Instagram account."
+  },
+  {
+    "username": "hudabeauty",
+    "name": "Huda Beauty",
+    "categories": ["beauty", "fashion"],
+    "tags": ["makeup", "cosmetics", "tutorials", "brand"],
+    "followers_millions": 54.0,
+    "description": "Makeup tutorials, tips, and Huda Beauty products."
+  },
+  {
+    "username": "fentybeauty",
+    "name": "Fenty Beauty",
+    "categories": ["beauty"],
+    "tags": ["makeup", "cosmetics", "brand", "inclusive"],
+    "followers_millions": 12.0,
+    "description": "Beauty for all, by Rihanna."
+  },
+  {
+    "username": "sephora",
+    "name": "Sephora",
+    "categories": ["beauty"],
+    "tags": ["makeup", "skincare", "fragrances", "retail"],
+    "followers_millions": 22.0,
+    "description": "Beauty meets community."
+  },
+  {
+    "username": "moma",
+    "name": "MoMA — The Museum of Modern Art",
+    "categories": ["art", "culture"],
+    "tags": ["museum", "modern-art", "contemporary", "exhibitions"],
+    "followers_millions": 6.4,
+    "description": "The Museum of Modern Art in New York City."
+  },
+  {
+    "username": "tate",
+    "name": "Tate",
+    "categories": ["art", "culture"],
+    "tags": ["museum", "contemporary", "modern-art", "exhibitions"],
+    "followers_millions": 5.0,
+    "description": "Britain's national collection of modern and contemporary art."
+  },
+  {
+    "username": "banksy",
+    "name": "Banksy",
+    "categories": ["art"],
+    "tags": ["street-art", "graffiti", "anonymous", "political"],
+    "followers_millions": 12.5,
+    "description": "The official, unverified Banksy account."
+  },
+  {
+    "username": "thedavidhockney",
+    "name": "David Hockney",
+    "categories": ["art"],
+    "tags": ["painting", "contemporary", "iconic", "iPad-art"],
+    "followers_millions": 0.5,
+    "description": "Artist David Hockney."
+  },
+  {
+    "username": "metmuseum",
+    "name": "The Met",
+    "categories": ["art", "culture"],
+    "tags": ["museum", "history", "exhibitions", "classical"],
+    "followers_millions": 5.5,
+    "description": "The Metropolitan Museum of Art."
+  },
+  {
+    "username": "spotify",
+    "name": "Spotify",
+    "categories": ["music"],
+    "tags": ["playlists", "artists", "streaming", "brand"],
+    "followers_millions": 7.7,
+    "description": "Music for every mood. Discover new artists and playlists."
+  },
+  {
+    "username": "billboard",
+    "name": "Billboard",
+    "categories": ["music", "news"],
+    "tags": ["charts", "artists", "magazine", "industry"],
+    "followers_millions": 4.6,
+    "description": "Music charts, news, and artist features."
+  },
+  {
+    "username": "pitchfork",
+    "name": "Pitchfork",
+    "categories": ["music"],
+    "tags": ["indie", "reviews", "magazine", "criticism"],
+    "followers_millions": 0.7,
+    "description": "The most trusted voice in music."
+  },
+  {
+    "username": "beyonce",
+    "name": "Beyoncé",
+    "categories": ["music", "celebrity"],
+    "tags": ["pop", "rnb", "iconic", "artist"],
+    "followers_millions": 318.0,
+    "description": "Singer, songwriter, performer."
+  },
+  {
+    "username": "championsleague",
+    "name": "UEFA Champions League",
+    "categories": ["sports"],
+    "tags": ["football", "soccer", "tournament", "europe"],
+    "followers_millions": 100.0,
+    "description": "The official UEFA Champions League account."
+  },
+  {
+    "username": "nba",
+    "name": "NBA",
+    "categories": ["sports"],
+    "tags": ["basketball", "league", "athletes", "highlights"],
+    "followers_millions": 91.0,
+    "description": "Official Instagram of the National Basketball Association."
+  },
+  {
+    "username": "f1",
+    "name": "Formula 1",
+    "categories": ["sports", "cars"],
+    "tags": ["motorsport", "racing", "cars", "drivers"],
+    "followers_millions": 38.0,
+    "description": "The official Formula 1 account."
+  },
+  {
+    "username": "espn",
+    "name": "ESPN",
+    "categories": ["sports", "news"],
+    "tags": ["highlights", "athletes", "broadcast", "leagues"],
+    "followers_millions": 31.0,
+    "description": "Sports news, highlights, and analysis."
+  },
+  {
+    "username": "leomessi",
+    "name": "Leo Messi",
+    "categories": ["sports", "celebrity"],
+    "tags": ["football", "soccer", "athlete", "argentina"],
+    "followers_millions": 503.0,
+    "description": "Footballer Lionel Messi."
+  },
+  {
+    "username": "cristiano",
+    "name": "Cristiano Ronaldo",
+    "categories": ["sports", "celebrity"],
+    "tags": ["football", "soccer", "athlete", "portugal"],
+    "followers_millions": 632.0,
+    "description": "Footballer Cristiano Ronaldo."
+  },
+  {
+    "username": "playstation",
+    "name": "PlayStation",
+    "categories": ["gaming", "tech"],
+    "tags": ["console", "video-games", "sony", "ps5"],
+    "followers_millions": 38.0,
+    "description": "Official PlayStation account."
+  },
+  {
+    "username": "xbox",
+    "name": "Xbox",
+    "categories": ["gaming", "tech"],
+    "tags": ["console", "video-games", "microsoft", "gamepass"],
+    "followers_millions": 18.0,
+    "description": "Power your dreams."
+  },
+  {
+    "username": "nintendo",
+    "name": "Nintendo",
+    "categories": ["gaming"],
+    "tags": ["console", "video-games", "switch", "mario"],
+    "followers_millions": 7.3,
+    "description": "The official Nintendo Instagram."
+  },
+  {
+    "username": "ign",
+    "name": "IGN",
+    "categories": ["gaming", "tech"],
+    "tags": ["reviews", "video-games", "news", "trailers"],
+    "followers_millions": 6.4,
+    "description": "Video game news, reviews, and trailers."
+  },
+  {
+    "username": "natgeowild",
+    "name": "Nat Geo Wild",
+    "categories": ["nature", "science"],
+    "tags": ["wildlife", "animals", "conservation", "documentary"],
+    "followers_millions": 8.4,
+    "description": "Wildlife from around the world."
+  },
+  {
+    "username": "ourplanet",
+    "name": "Our Planet",
+    "categories": ["nature", "science"],
+    "tags": ["wildlife", "documentary", "conservation", "earth"],
+    "followers_millions": 1.3,
+    "description": "Our Planet — Netflix nature documentary series."
+  },
+  {
+    "username": "bbcearth",
+    "name": "BBC Earth",
+    "categories": ["nature", "science"],
+    "tags": ["wildlife", "documentary", "earth", "animals"],
+    "followers_millions": 7.7,
+    "description": "Stories from the natural world."
+  },
+  {
+    "username": "topgear",
+    "name": "Top Gear",
+    "categories": ["cars"],
+    "tags": ["motorsport", "supercars", "reviews", "bbc"],
+    "followers_millions": 5.4,
+    "description": "The official Top Gear account."
+  },
+  {
+    "username": "ferrari",
+    "name": "Ferrari",
+    "categories": ["cars"],
+    "tags": ["supercars", "luxury", "motorsport", "italian"],
+    "followers_millions": 32.0,
+    "description": "Official Ferrari Instagram."
+  },
+  {
+    "username": "lamborghini",
+    "name": "Lamborghini",
+    "categories": ["cars"],
+    "tags": ["supercars", "luxury", "italian", "brand"],
+    "followers_millions": 25.0,
+    "description": "Official Lamborghini Instagram."
+  },
+  {
+    "username": "barnesandnoble",
+    "name": "Barnes & Noble",
+    "categories": ["books", "education"],
+    "tags": ["reading", "literature", "bookstore", "recommendations"],
+    "followers_millions": 0.42,
+    "description": "America's largest bookseller."
+  },
+  {
+    "username": "penguinrandomhouse",
+    "name": "Penguin Random House",
+    "categories": ["books"],
+    "tags": ["reading", "literature", "publishing", "authors"],
+    "followers_millions": 0.6,
+    "description": "We publish the best books."
+  },
+  {
+    "username": "neilhimself",
+    "name": "Neil Gaiman",
+    "categories": ["books", "celebrity"],
+    "tags": ["fantasy", "authors", "writing", "literature"],
+    "followers_millions": 1.7,
+    "description": "Writer Neil Gaiman."
+  },
+  {
+    "username": "nasa",
+    "name": "NASA",
+    "categories": ["science", "education"],
+    "tags": ["space", "astronomy", "exploration", "astronauts"],
+    "followers_millions": 96.0,
+    "description": "Explore the universe and discover our home planet with NASA."
+  },
+  {
+    "username": "spacex",
+    "name": "SpaceX",
+    "categories": ["science", "tech"],
+    "tags": ["space", "rockets", "elon-musk", "exploration"],
+    "followers_millions": 14.0,
+    "description": "SpaceX — Making humans multiplanetary."
+  },
+  {
+    "username": "neiltyson",
+    "name": "Neil deGrasse Tyson",
+    "categories": ["science", "education"],
+    "tags": ["astronomy", "space", "astrophysics", "communicator"],
+    "followers_millions": 2.5,
+    "description": "Astrophysicist Neil deGrasse Tyson."
+  },
+  {
+    "username": "forbes",
+    "name": "Forbes",
+    "categories": ["business", "news"],
+    "tags": ["entrepreneurship", "finance", "leaders", "magazine"],
+    "followers_millions": 7.6,
+    "description": "Business news, entrepreneurs, and global lists."
+  },
+  {
+    "username": "businessinsider",
+    "name": "Business Insider",
+    "categories": ["business", "news"],
+    "tags": ["finance", "markets", "tech", "news"],
+    "followers_millions": 4.1,
+    "description": "Business, tech, and finance news."
+  },
+  {
+    "username": "garyvee",
+    "name": "Gary Vaynerchuk",
+    "categories": ["business", "education"],
+    "tags": ["entrepreneurship", "marketing", "motivation", "speaker"],
+    "followers_millions": 10.2,
+    "description": "Entrepreneur Gary Vaynerchuk."
+  },
+  {
+    "username": "shaymitchell",
+    "name": "Shay Mitchell",
+    "categories": ["celebrity", "fashion", "travel"],
+    "tags": ["actress", "lifestyle", "destinations", "brand"],
+    "followers_millions": 36.0,
+    "description": "Actress and entrepreneur Shay Mitchell."
+  },
+  {
+    "username": "9gag",
+    "name": "9GAG",
+    "categories": ["comedy", "memes"],
+    "tags": ["humor", "memes", "viral", "internet"],
+    "followers_millions": 56.0,
+    "description": "The best funny memes and videos."
+  },
+  {
+    "username": "memes",
+    "name": "Memes",
+    "categories": ["comedy", "memes"],
+    "tags": ["humor", "viral", "internet"],
+    "followers_millions": 30.0,
+    "description": "Memes."
+  },
+  {
+    "username": "thedodo",
+    "name": "The Dodo",
+    "categories": ["pets", "nature"],
+    "tags": ["animals", "rescue", "dogs", "cats", "feel-good"],
+    "followers_millions": 11.0,
+    "description": "Animal rescue and feel-good pet stories."
+  },
+  {
+    "username": "weratedogs",
+    "name": "WeRateDogs",
+    "categories": ["pets", "comedy"],
+    "tags": ["dogs", "humor", "feel-good", "ratings"],
+    "followers_millions": 1.5,
+    "description": "Your favorite professional dog rating service."
+  },
+  {
+    "username": "imdb",
+    "name": "IMDb",
+    "categories": ["movies"],
+    "tags": ["film", "tv", "ratings", "celebrities"],
+    "followers_millions": 2.0,
+    "description": "The world's most popular source for movies, TV, and celebrities."
+  },
+  {
+    "username": "a24",
+    "name": "A24",
+    "categories": ["movies"],
+    "tags": ["indie", "film", "production", "arthouse"],
+    "followers_millions": 1.7,
+    "description": "Production and distribution company A24."
+  },
+  {
+    "username": "marvel",
+    "name": "Marvel Entertainment",
+    "categories": ["movies", "comics"],
+    "tags": ["superheroes", "mcu", "comics", "franchise"],
+    "followers_millions": 38.0,
+    "description": "The official Marvel Entertainment Instagram."
+  },
+  {
+    "username": "nytimes",
+    "name": "The New York Times",
+    "categories": ["news"],
+    "tags": ["journalism", "politics", "world", "longform"],
+    "followers_millions": 18.0,
+    "description": "America's paper of record."
+  },
+  {
+    "username": "bbcnews",
+    "name": "BBC News",
+    "categories": ["news"],
+    "tags": ["journalism", "world", "politics", "broadcast"],
+    "followers_millions": 28.0,
+    "description": "International news, from the BBC."
+  },
+  {
+    "username": "reuters",
+    "name": "Reuters",
+    "categories": ["news"],
+    "tags": ["journalism", "world", "wire-service", "photojournalism"],
+    "followers_millions": 6.3,
+    "description": "The world's largest international news organization."
+  },
+  {
+    "username": "archdaily",
+    "name": "ArchDaily",
+    "categories": ["architecture", "design"],
+    "tags": ["buildings", "architects", "design", "inspiration"],
+    "followers_millions": 3.2,
+    "description": "The world's most visited architecture website."
+  },
+  {
+    "username": "dezeen",
+    "name": "Dezeen",
+    "categories": ["architecture", "design"],
+    "tags": ["design", "buildings", "interiors", "magazine"],
+    "followers_millions": 5.6,
+    "description": "Architecture and design magazine."
+  },
+  {
+    "username": "designmilk",
+    "name": "Design Milk",
+    "categories": ["design"],
+    "tags": ["interiors", "products", "modern", "magazine"],
+    "followers_millions": 1.6,
+    "description": "Modern design every day."
+  },
+  {
+    "username": "diy_doityourself",
+    "name": "DIY Ideas",
+    "categories": ["diy"],
+    "tags": ["crafts", "home", "making", "hacks"],
+    "followers_millions": 0.6,
+    "description": "DIY projects, crafts, and life hacks."
+  },
+  {
+    "username": "marthastewart",
+    "name": "Martha Stewart",
+    "categories": ["diy", "food"],
+    "tags": ["crafts", "home", "recipes", "lifestyle"],
+    "followers_millions": 2.5,
+    "description": "Lifestyle, cooking, crafts, and home tips from Martha."
+  },
+  {
+    "username": "headspace",
+    "name": "Headspace",
+    "categories": ["mental-health", "health"],
+    "tags": ["meditation", "mindfulness", "wellness", "app"],
+    "followers_millions": 1.0,
+    "description": "Meditation and mindfulness, made simple."
+  },
+  {
+    "username": "calm",
+    "name": "Calm",
+    "categories": ["mental-health", "health"],
+    "tags": ["meditation", "sleep", "mindfulness", "wellness", "app"],
+    "followers_millions": 1.7,
+    "description": "The #1 app for meditation and sleep."
+  },
+  {
+    "username": "themindfulmovement",
+    "name": "The Mindful Movement",
+    "categories": ["mental-health", "health"],
+    "tags": ["meditation", "mindfulness", "wellness", "self-care"],
+    "followers_millions": 0.2,
+    "description": "Guided meditations and mindful living."
+  },
+  {
+    "username": "khanacademy",
+    "name": "Khan Academy",
+    "categories": ["education"],
+    "tags": ["learning", "school", "math", "free", "nonprofit"],
+    "followers_millions": 0.42,
+    "description": "Free, world-class education for anyone, anywhere."
+  },
+  {
+    "username": "ted",
+    "name": "TED",
+    "categories": ["education"],
+    "tags": ["talks", "ideas", "speakers", "learning"],
+    "followers_millions": 8.0,
+    "description": "Ideas worth spreading."
+  },
+  {
+    "username": "duolingo",
+    "name": "Duolingo",
+    "categories": ["education"],
+    "tags": ["languages", "learning", "app", "owl"],
+    "followers_millions": 4.6,
+    "description": "Learn a language with the world's owl."
+  },
+  {
+    "username": "humansofny",
+    "name": "Humans of New York",
+    "categories": ["photography", "culture"],
+    "tags": ["portrait", "storytelling", "documentary", "new-york"],
+    "followers_millions": 12.0,
+    "description": "Stories from the streets of New York and beyond."
+  },
+  {
+    "username": "natgeoadventure",
+    "name": "National Geographic Adventure",
+    "categories": ["travel", "nature"],
+    "tags": ["adventure", "exploration", "outdoor", "expeditions"],
+    "followers_millions": 1.0,
+    "description": "Adventure and exploration storytelling."
+  },
+  {
+    "username": "patagonia",
+    "name": "Patagonia",
+    "categories": ["nature", "fashion", "fitness"],
+    "tags": ["outdoor", "sustainability", "brand", "adventure"],
+    "followers_millions": 5.5,
+    "description": "We're in business to save our home planet."
+  },
+  {
+    "username": "rei",
+    "name": "REI",
+    "categories": ["nature", "fitness"],
+    "tags": ["outdoor", "hiking", "camping", "brand"],
+    "followers_millions": 2.4,
+    "description": "Outdoor co-op — gear and inspiration."
+  },
+  {
+    "username": "earthpix",
+    "name": "Earth",
+    "categories": ["nature", "photography", "travel"],
+    "tags": ["landscape", "earth", "destinations", "wanderlust"],
+    "followers_millions": 22.0,
+    "description": "The world's most beautiful places."
+  },
+  {
+    "username": "discovery",
+    "name": "Discovery",
+    "categories": ["nature", "science"],
+    "tags": ["documentary", "wildlife", "broadcast", "exploration"],
+    "followers_millions": 4.2,
+    "description": "The official Discovery Channel Instagram."
+  },
+  {
+    "username": "vsco",
+    "name": "VSCO",
+    "categories": ["photography"],
+    "tags": ["app", "filters", "editing", "community"],
+    "followers_millions": 1.5,
+    "description": "Photography app and creative community."
+  },
+  {
+    "username": "petersonsupreme",
+    "name": "Peter McKinnon",
+    "categories": ["photography", "tech"],
+    "tags": ["editing", "tutorials", "youtube", "gear"],
+    "followers_millions": 1.5,
+    "description": "Photographer and filmmaker Peter McKinnon."
+  },
+  {
+    "username": "casey",
+    "name": "Casey Neistat",
+    "categories": ["photography", "tech"],
+    "tags": ["filmmaker", "vlog", "youtube", "new-york"],
+    "followers_millions": 1.8,
+    "description": "Filmmaker Casey Neistat."
+  },
+  {
+    "username": "wholefoods",
+    "name": "Whole Foods Market",
+    "categories": ["food", "health"],
+    "tags": ["organic", "recipes", "grocery", "brand"],
+    "followers_millions": 4.4,
+    "description": "Food that's the highest quality and the best for you."
+  },
+  {
+    "username": "minimalistbaker",
+    "name": "Minimalist Baker",
+    "categories": ["food", "health"],
+    "tags": ["recipes", "vegan", "easy", "blog"],
+    "followers_millions": 2.5,
+    "description": "Simple recipes, 10 ingredients or fewer, 30 minutes or less."
+  },
+  {
+    "username": "yogagirl",
+    "name": "Rachel Brathen",
+    "categories": ["fitness", "health", "mental-health"],
+    "tags": ["yoga", "wellness", "mindfulness", "lifestyle"],
+    "followers_millions": 2.1,
+    "description": "Yoga teacher and author Rachel Brathen."
+  },
+  {
+    "username": "alyfromearth",
+    "name": "Aly Raisman",
+    "categories": ["fitness", "sports"],
+    "tags": ["gymnastics", "olympics", "athlete", "advocate"],
+    "followers_millions": 2.2,
+    "description": "Olympic gymnast and advocate."
+  },
+  {
+    "username": "blackberrydesign",
+    "name": "Black Berry Design",
+    "categories": ["design", "art"],
+    "tags": ["graphic-design", "branding", "studio"],
+    "followers_millions": 0.05,
+    "description": "Graphic design studio."
+  },
+  {
+    "username": "googleearth",
+    "name": "Google Earth",
+    "categories": ["travel", "tech", "nature"],
+    "tags": ["maps", "satellite", "exploration", "earth"],
+    "followers_millions": 0.95,
+    "description": "Explore the world from above with Google Earth."
+  },
+  {
+    "username": "thefacelessman",
+    "name": "Tom Bilyeu",
+    "categories": ["business", "mental-health", "education"],
+    "tags": ["entrepreneurship", "mindset", "podcast", "motivation"],
+    "followers_millions": 1.4,
+    "description": "Impact Theory founder Tom Bilyeu."
+  }
+]
