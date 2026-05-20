@@ -6,7 +6,7 @@
   <img src="static/demo.gif" alt="ig_finder UI demo" width="720">
 </p>
 
-[![CI](https://github.com/marrlourenco/ig_finder/actions/workflows/ci.yml/badge.svg)](https://github.com/marrlourenco/ig_finder/actions/workflows/ci.yml)
+[![CI](https://github.com/MarianaRL/ig_finder/actions/workflows/ci.yml/badge.svg)](https://github.com/MarianaRL/ig_finder/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -64,7 +64,7 @@ Followed accounts are excluded from the output, and every recommendation ships w
 ### Option A — local Python
 
 ```bash
-git clone https://github.com/marrlourenco/ig_finder.git
+git clone https://github.com/MarianaRL/ig_finder.git
 cd ig_finder
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
