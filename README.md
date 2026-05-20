@@ -68,7 +68,16 @@ git clone https://github.com/marrlourenco/ig_finder.git
 cd ig_finder
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
+```
+
+#### Option A.1 - web app
+```bash
 uvicorn app.main:app --reload
+```
+
+#### Option A.2 - CLI
+```bash
+ig-finder -c travel -c food -f natgeo -f gordongram -n 8
 ```
 
 Open <http://127.0.0.1:8000>.
@@ -78,12 +87,6 @@ Open <http://127.0.0.1:8000>.
 ```bash
 docker build -t ig-finder .
 docker run -p 8000:8000 ig-finder
-```
-
-### Option C — CLI
-
-```bash
-ig-finder -c travel -c food -f natgeo -f gordongram -n 8
 ```
 
 ## API
