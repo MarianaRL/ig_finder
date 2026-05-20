@@ -2,6 +2,10 @@
 
 > A small, hackable **hybrid content-based recommender** that suggests Instagram pages from a user's stated interests and the accounts they already follow.
 
+<p align="center">
+  <img src="static/demo.gif" alt="ig_finder UI demo" width="720">
+</p>
+
 [![CI](https://github.com/marrlourenco/ig_finder/actions/workflows/ci.yml/badge.svg)](https://github.com/marrlourenco/ig_finder/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
@@ -12,7 +16,7 @@
 
 `ig_finder` is a compact end-to-end project showcasing a recommender system: data modeling, a content-based ranking pipeline (TF-IDF + category overlap + popularity prior), a REST API, a web UI, tests, CI, and Docker — all in a single small repository.
 
-## Demo
+## CLI demo
 
 Pick a few interest categories, optionally drop in some Instagram handles you already follow, and the system returns ranked suggestions with explanations.
 
